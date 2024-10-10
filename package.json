@@ -2,6 +2,7 @@
   "name": "new",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://joannegullive0001.github.io/menreact"
   "type": "module",
   "scripts": {
     "dev": "vite",
